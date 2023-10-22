@@ -1,0 +1,33 @@
+#defaultCanvas0{
+    display:block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 200%;
+}
+
+h1{
+    text-align: center;
+}
+#layout{
+    display: flex;
+    flex-direction: column;
+}
+.section-header{
+    text-align: center;
+    height: 400px;
+    opacity: 0.7;
+}
+
+#section1{
+    background-color: red;
+}
+
+#section2{
+    background-color: blue;
+}
+
+#section3{
+    background-color: purple;
+}
